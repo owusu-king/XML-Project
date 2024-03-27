@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<microbloggingSite>
+    <users>
+        <user>
+            <username>isotopes</username>
+            <name>Amponsah Jennifer</name>
+            <email>ajennifer12@gmail.com</email>
+            <bio>
+                Marketer, Influencer and a Mother. I love to share my thoughts about life.
+            </bio>
+            <posts>
+                <post>
+                    <postId>1</postId>
+                    <content>
+                        <content-title>The Nexus Times</content-title>
+                        <content-body>
+                        In the realm of technological advancements, quantum computing stands as a 
+                        beacon of promise, offering unprecedented computational power and capabilities. 
+                        Recently, a significant breakthrough has emerged in the field, sparking waves of 
+                        excitement and speculation within the scientific community. Let's delve into the 
+                        details of this breakthrough and explore its potential implications and applications.
+                        </content-body>
+                    </content>
+                    <timestamp>2024-02-24T09:30:00</timestamp>
+                    <likes>55</likes>
+                    <comments>
+                        <comment>
+                            <commentId>1</commentId>
+                            <content>nice post!</content>
+                            <timestamp>2024-03-24T08:09:00</timestamp>
+                        </comment>
+                        <comment>
+                            <commentId>2</commentId>
+                            <content>Educative Content!</content>
+                            <timestamp>2024-03-24T08:30:00</timestamp>
+                        </comment>
+                    </comments>
+                </post>
+            </posts>
+        </user>
+        <!-- Add more users -->
+
+        <user>
+            <username>matilba</username>
+            <name>Emmanuel Amankwah Gyasi</name>
+            <email>eamankwagyasi@gmail.com</email>
+            <bio>
+                Teacher, Blogger, and Painter. Art is Life
+            </bio>
+            <posts>
+                <post>
+                    <postId>2</postId>
+                    <content>
+                        <content-title>EcoWatch Chronicles</content-title>
+                        <content-body>
+                        In a historic shift towards sustainability, renewable energy sources 
+                        have eclipsed coal in electricity generation for the first time ever. 
+                        This milestone marks a pivotal moment in the global energy transition 
+                        and underscores the growing momentum behind renewable technologies. Let's 
+                        delve into the significance of this achievement and its implications for 
+                        the future of energy production.
+                        </content-body>
+                    </content>
+                    <timestamp>2023-05-12T12:56:05</timestamp>
+                    <likes>300</likes>
+                    <comments>
+                        <comment>
+                            <commentId>1</commentId>
+                            <content>Wow! I learned a lot from this post</content>
+                            <timestamp>2024-02-30T03:09:26</timestamp>
+                        </comment>
+                        <comment>
+                            <commentId>2</commentId>
+                            <content>This is great!</content>
+                            <timestamp>2023-02-30T05:19:26</timestamp>
+                        </comment>
+                    </comments>
+                </post>
+            </posts>
+        </user>
+        
+    </users>
+</microbloggingSite>
